@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jos</h1>
 <h3 align="center">A Web Dev from Wales</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joslionel&label=Profile%20views&color=0e75b6&style=flat" alt="joslionel" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joslionel" alt="joslionel" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/angryjoesweb" target="blank"><img src="https://img.shields.io/twitter/follow/angryjoesweb?logo=twitter&style=for-the-badge" alt="angryjoesweb" /></a> </p>
 
 - 🔭 I’m currently working on **The Odin Project**
@@ -29,7 +25,7 @@
 <a href="https://linkedin.com/in/jos-lionel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jos-lionel" height="30" width="40" /></a>
 <a href="https://fb.com/joseff.llewelyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joseff.llewelyn" height="30" width="40" /></a>
 <a href="https://instagram.com/angry_jo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="angry_jo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucyu7zjo-dmkm0qhwhqe0pma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucyu7zjo-dmkm0qhwhqe0pma" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucy3pbrfoiuw3_v-zz72puoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucy3pbrfoiuw3_v-zz72puoa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
