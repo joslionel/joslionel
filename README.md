@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript (Node.js, React), PHP (Laravel), Python, HTML & CSS**
 
-- 🤝 I’m looking for help with [developing a better knowledge of Laravel](www.aditagain.com)
+- 🤝 I’m looking for help with [developing a better knowledge of Laravel](https://www.aditagain.com)
 
 - 👨‍💻 All of my projects are available at [https://github.com/joslionel](https://github.com/joslionel)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **jos@angryjoes.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/jos-lionel](https://www.linkedin.com/jos-lionel)
+- 📄 Know about my experiences [https://www.linkedin.com/jos-lionel](https://www.linkedin.com/in/jos-lionel)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
